@@ -1,6 +1,5 @@
 models/*.pkl
 data/*.csv
-results/plots/*.png
 __pycache__/
 *.pyc
 .DS_Store
